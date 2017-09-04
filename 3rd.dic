@@ -1,2 +1,18 @@
 NOSONAR
 mongo
+
+# quartz
+jdbcjobstore
+QRTZ
+
+# liquibase
+dbchangelog
+
+# Spring
+springboot
+
+# Activiti
+activiti
+
+# Camunda
+camunda
